@@ -18,7 +18,7 @@ d) функція print_val () виводить на екран значення
 
 ---
 
-![screen](https://imgur.com/JIfitfC)
+![Imgur](https://imgur.com/JIfitfC)
 
 ---
 ### Контрольні запитання
