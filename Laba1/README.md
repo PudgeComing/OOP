@@ -18,7 +18,7 @@ d) функція print_val () виводить на екран значення
 
 ---
 
-![screen](D:\Download\23.jpg)
+![screen](https://drive.google.com/file/d/1bbF1KbPY6lpeL4cHNQXgv0LShZOEcPfS/view)
 
 ---
 ### Контрольні запитання
