@@ -9,7 +9,9 @@ class Cilinder
         double radius ;
         double height ;
         double objem ;
-        
+        string obj1;
+        string obj2;
+
         friend Cilinder getObyem(Cilinder &obj1, Cilinder &obj2);
     public:
         Cilinder() : radius(0) , height(0)
