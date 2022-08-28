@@ -18,7 +18,7 @@ d) функція print_val () виводить на екран значення
 
 ---
 
-![screen](https://drive.google.com/file/d/1bbF1KbPY6lpeL4cHNQXgv0LShZOEcPfS/view)
+![screen](https://imgur.com/a/8Uz2eUo)
 
 ---
 ### Контрольні запитання
